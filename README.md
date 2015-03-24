@@ -14,6 +14,11 @@ Piforce-Single uses debugmode's triforce tools to load a NetDIMM board with bina
 
 loading times are fast (around 12 seconds for raspberry pi2, and 22 for raspberry pi1)
 
+# Download
+
+The image can be downloaded here:
+http://www.mediafire.com/download/tfpbeupbpd602cx/Piforce-Single_v1.0.zip
+
 # Requirements
 
 You will need the following items to use Piforce-Single:
